@@ -1,0 +1,25 @@
+site_name: FlipperMCE
+nav:
+  - Home: index.md
+  - Getting Started: getting_started.md
+  - Splash: splashgen/splashgen.html
+  - Features: features.md
+  - FAQ: faq.md
+  - Releases: https://github.com/flippermce/firmware/releases
+theme:
+  name: material
+  palette:
+    scheme: custom
+
+  font:
+    text: Roboto
+    code: Roboto Mono
+  logo: images/FlipperMCE.svg
+  favicon: images/FlipperMCE.svg
+  features:
+    - navigation.tabs
+    - navigation.top
+    - search.highlight
+extra_css:
+  - stylesheets/extra.css
+repo_url: "https://github.com/flippermce"
