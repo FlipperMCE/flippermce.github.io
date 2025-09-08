@@ -1,4 +1,4 @@
-### Card Restore
+## Card Restore
 
 If active, FlipperMCE will always boot to the last used card.
 
@@ -40,7 +40,7 @@ GT4P=FolderName
 *Note: Make sure there is an empty line at the end of the ini file.*
 
 
-### Settings File
+## Settings File
 
 *FlipperMCE* generates a settings file (`.flippermce/settings.ini`) that allows you to edit some settings through your computer. This is useful when using one SD card with multiple *FlipperMCE* devices.
 
@@ -66,7 +66,7 @@ Possible values are:
 
 *Note: Make sure there is an empty line at the end of the ini file.*
 
-### Per Card Configs
+## Per Card Configs
 
 There are some configuration values that can be modified on a per card base within a config file named  `CardX.ini` in a card folder, where `X` is the card index.
 
