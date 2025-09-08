@@ -25,7 +25,7 @@ For more info, see [Features](features.md)
 
 ## ❤️ Special Thanks to...
 
-- **Vapor, rippenbiest, Mancloud**: for beta testing ❤️
+- **Vapor, rippenbiest, Mancloud, @hitmanmcc**: for beta testing ❤️
 - **@gameBitfunx**: for PCB design, testing and support ❤️
 - **@xyz**: for sd2psx ❤️
 - **sd2psXtd Team**: (you know who you are 😉 )
