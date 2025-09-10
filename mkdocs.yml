@@ -1,4 +1,10 @@
 site_name: FlipperMCE
+site_description: "Open Source GameCube Memory Card Emulator"
+site_author: "FlipperMCE Team"
+extra:
+  social:
+    - icon: fontawesome/brands/github
+      link: https://github.com/flippermce
 nav:
   - Home: index.md
   - Getting Started: getting_started.md
@@ -23,9 +29,3 @@ theme:
 extra_css:
   - stylesheets/extra.css
 repo_url: "https://github.com/flippermce"
-site_description: "Open Source GameCube Memory Card Emulator"
-site_author: "FlipperMCE Team"
-extra:
-  social:
-    - icon: fontawesome/brands/github
-      link: https://github.com/flippermce
