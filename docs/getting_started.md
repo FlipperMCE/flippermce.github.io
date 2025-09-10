@@ -1,6 +1,6 @@
-
-
 # Getting Started with FlipperMCE
+
+![FlipperMCE](images/flippermce.jpeg){width=50%}
 
 Welcome to the FlipperMCE Getting Started guide! This guide will walk you through obtaining the hardware, assembling your device, and installing the firmware.
 
@@ -10,7 +10,6 @@ You can get the hardware for *FlipperMCE* in different ways:
 
 ### Buy one assembled from a PCB manufacturer like JLCPCB/PCBWay
 
-
 **When ordering with any PCB manufacturer, make sure to:**
 
 - **Use 0.8mm PCB thickness**
@@ -18,11 +17,11 @@ You can get the hardware for *FlipperMCE* in different ways:
 
 You can find all manufacturing files in our [PCB Repository](https://github.com/FlipperMCE/pcb/releases).
 
-### Case
+#### Case
 
 To get the official case for FlipperMCE, please head over to [Printables](https://printables.com)
 
-### Assembly
+#### Assembly
 
 **Assembly Steps:**
 

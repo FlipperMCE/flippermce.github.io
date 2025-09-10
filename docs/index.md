@@ -28,8 +28,8 @@ For more info, see [Features](features.md).
 
 ## Special Thanks
 
+- **BitFunX**: for PCB design, testing and support ❤️
 - **Vapor, rippenbiest, Mancloud, @hitmanmcc**: for beta testing ❤️
-- **@gameBitfunx**: for PCB design, testing and support ❤️
 - **@xyzz**: for sd2psx ❤️
 - **sd2psXtd Team**: (you know who you are 😉)
 - **8BitMods Team**: for helping out with card formatting and providing lots of other useful information for things like unlock ❤️

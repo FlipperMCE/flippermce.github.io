@@ -7,7 +7,9 @@ extra:
       link: https://github.com/flippermce
 nav:
   - Home: index.md
-  - Getting Started: getting_started.md
+  - Getting Started:
+    - FlipperMCE: getting_started.md
+    - GCMCE: gcmce.md
   - Features: features.md
   - FAQ: faq.md
   - Splash Generator: splashgen/splashgen.html
@@ -29,3 +31,7 @@ theme:
 extra_css:
   - stylesheets/extra.css
 repo_url: "https://github.com/flippermce"
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.blocks.caption
