@@ -2,9 +2,9 @@ site_name: FlipperMCE
 nav:
   - Home: index.md
   - Getting Started: getting_started.md
-  - Splash: splashgen/splashgen.html
   - Features: features.md
   - FAQ: faq.md
+  - Splash Generator: splashgen/splashgen.html
   - Releases: https://github.com/flippermce/firmware/releases
 theme:
   name: material
