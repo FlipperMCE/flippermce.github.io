@@ -19,7 +19,7 @@ You can find all manufacturing files in our [PCB Repository](https://github.com/
 
 #### Case
 
-To get the official case for FlipperMCE, please head over to [Printables](https://printables.com)
+To get the official case for FlipperMCE, please head over to the [PCB repository](https://github.com/FlipperMCE/pcb/tree/main/case).
 
 #### Assembly
 
