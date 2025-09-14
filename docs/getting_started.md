@@ -36,6 +36,7 @@ To get the official case for FlipperMCE, please head over to the [PCB repository
 
 ### Update / Install Firmware
 
+Download the current FlipperMCE (*flippermce.uf2*) release at the [Firmware Repository](https://github.com/FlipperMCE/firmware/releases).
 
 To install the firmware, connect the assembled FlipperMCE to your computer while **holding any of the buttons**.
 
