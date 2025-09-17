@@ -2,11 +2,11 @@
 # Frequently Asked Questions (FAQ)
 
 
-## Is FlipperMCE a clone of 8BitMods MemCard Pro?
+## Is FlipperMCE a clone of 8BitMods MemCard PRO®?
 
 It is not! 8BitMods uses completely different hardware and software. Moreover, they have features implemented that will never make their way to *FlipperMCE*.
 
-|             | FlipperMCE    | MemCard Pro GC       |
+|             | FlipperMCE    | MemCard PRO® GC      |
 |-------------|---------------|----------------------|
 | MCU         | RP2040        | ESP32                |
 | Open Source | ✓             | ✗                    |
