@@ -5,6 +5,8 @@ extra:
   social:
     - icon: fontawesome/brands/github
       link: https://github.com/flippermce
+    - icon: fontawesome/brands/discord
+      link: https://discord.gg/a2dnJD3f
 nav:
   - Home: index.md
   - Getting Started:
