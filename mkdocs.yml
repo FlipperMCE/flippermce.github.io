@@ -13,6 +13,7 @@ nav:
     - FlipperMCE: getting_started.md
     - GCMCE: gcmce.md
   - Features: features.md
+  - Menu Guide: navigation.md
   - FAQ: faq.md
   - Splash Generator: splashgen/splashgen.html
   - Releases: https://github.com/flippermce/firmware/releases
@@ -33,6 +34,7 @@ theme:
 extra_css:
   - stylesheets/extra.css
 repo_url: "https://github.com/flippermce"
+
 markdown_extensions:
   - attr_list
   - md_in_html
