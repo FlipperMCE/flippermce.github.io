@@ -117,3 +117,35 @@ picotool load <combined_file_name>.uf2
 ```
 
 *while having the FlipperMCE to be updated connected in bootloader mode.*
+
+### Card splashes (1.1.0)
+
+Add a splash image that the device shows in the card browser. Use the [SplashGen](splashgen/splashgen.html) to convert a source image to the device `.bin` format, then place the generated file in the card folder on your SD card.
+
+Naming and behavior
+- Folder-level splash (default for the folder):
+    - Path: `MemoryCards/GC/<card_folder>/<card_folder>.bin`
+    - Example: `MemoryCards/GC/SuperGame/SuperGame.bin` — used when no channel-specific image exists.
+- Channel-specific splash (overrides folder-level for that channel):
+    - Path: `MemoryCards/GC/<card_folder>/<card_folder>-<channel_number>.bin`
+    - Example: `MemoryCards/GC/SuperGame/SuperGame-1.bin` — shown only for channel 1 of that card folder.
+- Fallback rules:
+    - If a channel-specific file exists it is used.
+    - Otherwise the folder-level `<card_folder>.bin` is used.
+    - If neither exists, no splash is shown.
+
+Practical notes
+- `<channel_number>` matches the on-device channel index (1..N).
+- Filenames must match exactly; FAT SD cards are usually case-insensitive but keep names consistent.
+- Use `misc/splashgen.html` to produce correctly-sized and packed `.bin` files for the OLED.
+- Keep names short — very long filenames may cause display or performance issues.
+- Store splash `.bin` files alongside that card's `CardX.ini` and save data in the same folder.
+
+### Block Device Interface (1.1.0)
+
+FlipperMCE can be accessed as a block device through GameCube and Wii applications. This feature allows direct read/write access to the sd card storage at a block level. To use this functionality, applications must implement the MMCE (Multipurpose Memory Card Emulator) protocol, which is documented in detail in the [memcardpro.txt](https://github.com/FlipperMCE/firmware/blob/143044d067805e424b9267949c0c64b18f61ec91/doc/mcp/memcardpro.txt) specification.
+
+**Development Support:**
+- The latest version of libOGC2 includes built-in support for this protocol
+- Suitable for custom tools and applications that need direct memory card access
+- Enables advanced features like backup/restore utilities or save managers
