@@ -47,6 +47,8 @@ In this case, *FolderName* refers to a folder located under `/MemoryCards/GC`.
 
 *Note: Make sure there is an empty line at the end of the ini file.*
 
+If you want to use a preconfigured mapping containing all known Cross-Save Titles, feel free to download [this file](assets/Game2Folder.ini) by *R3Z3N*.
+
 ## Settings File
 
 FlipperMCE generates a settings file (`.flippermce/settings.ini`) that allows you to edit some settings through your computer. This is useful when using one SD card with multiple FlipperMCE devices.
