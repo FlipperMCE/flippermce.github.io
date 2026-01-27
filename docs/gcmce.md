@@ -2,7 +2,7 @@
 
 ![GCMCE](images/GCMCE.jpg){width=50%}
 
-**GCMCE** is a FlipperMCE version designed and created by BitFunX. It is available at the usual marketplaces like aliexpress or through their website [https://www.bitfunx.com](https://www.bitfunx.com).
+**GCMCE** is a FlipperMCE version designed and created by BitFunX. It is available at the usual marketplaces like aliexpress or through their website [https://www.bitfunxshop.com/](https://www.bitfunxshop.com/).
 
 ## Firmware
 
