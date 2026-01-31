@@ -31,6 +31,7 @@ theme:
     - navigation.tabs
     - navigation.top
     - search.highlight
+    - navigation.tracking
 extra_css:
   - stylesheets/extra.css
 repo_url: "https://github.com/flippermce"

@@ -151,3 +151,27 @@ FlipperMCE can be accessed as a block device through GameCube and Wii applicatio
 - The latest version of libOGC2 includes built-in support for this protocol
 - Suitable for custom tools and applications that need direct memory card access
 - Enables advanced features like backup/restore utilities or save managers
+
+#### Compatible Apps
+
+Thanks to many other developers like extrems, there are already plenty of homebrew apps that support FlipperMCE as a Block Device:
+
+- [240p Test Suite](https://artemiourbina.itch.io/240p-test-suite) (pending release)
+- [Blockamok Remix](https://mode8fx.itch.io/blockamok-remix) (pending pull request)
+- [ClassiCube](https://www.classicube.net/download/gamecube)
+- [CleanRip](https://github.com/emukidid/cleanrip)
+- [CubeSX](https://github.com/emukidid/pcsxgc) (pending release)
+- [Enhanced mGBA](https://github.com/extremscorner/emgba)
+- [FCE Ultra GX](https://github.com/dborth/fceugx) (pending release)
+- [Game Boy Interface](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface)
+- [GC HTTP Server](https://github.com/emukidid/gchttpserver)
+- [GCC Test Suite](https://github.com/greenwave-1/GTS)
+- [Not64](https://github.com/extremscorner/not64)
+- [Octave](https://github.com/mholtkamp/octave) (pending release)
+- [Scratch Everywhere!](https://github.com/ScratchEverywhere/ScratchEverywhere)
+- [Snes9x GX](https://github.com/dborth/snes9xgx) (pending release)
+- [SuDokuL](https://mode8fx.itch.io/sudokul) (pending pull request)
+- [Swiss](https://github.com/emukidid/swiss-gc) (Config File and File Management)
+- [Trogdor: Reburninated](https://mode8fx.itch.io/trogdor-reburninated) (pending pull request)
+- [Visual Boy Advance GX](https://github.com/dborth/vbagx) (pending release)
+- [WakeMii](https://github.com/emukidid/wakemii)
