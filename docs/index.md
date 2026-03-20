@@ -30,5 +30,6 @@ For more info, see [Features](features.md).
 - **@xyzz**: for sd2psx ❤️
 - **sd2psXtd Team**: (you know who you are 😉)
 - **8BitMods Team**: for helping out with card formatting and providing lots of other useful information for things like unlock ❤️
-- **@extrems, **: for insights into EXI communications and libOGC2 SDK
+- **@extrems**: for insights into EXI communications and libOGC2 SDK
+- **@niemasd**: For his [*GameDB-GC*](https://github.com/niemasd/GameDB-GC) database - Game naming and ID would not be possible without it! ❤️
 
