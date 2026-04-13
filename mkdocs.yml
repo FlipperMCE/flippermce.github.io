@@ -12,6 +12,7 @@ nav:
   - Getting Started:
     - FlipperMCE: getting_started.md
     - GCMCE: gcmce.md
+    - Swiss: swiss.md
   - Features: features.md
   - Menu Guide: navigation.md
   - FAQ: faq.md
