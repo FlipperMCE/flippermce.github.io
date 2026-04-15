@@ -33,7 +33,7 @@ So I went with polling, which *does* work to a degree, though it comes with its 
 
 With all that said — I thought this was worth sharing. It shows a concrete path for how MMCE could slot into Swiss's existing game loading architecture, and maybe someone down the line will find a cleaner solution to the interrupt problem.
 
-Sources are [over here](https://github.com/FlipperMCE/swiss-gc/tree/feat/MMCEPatch), and a precompiled version from GitHub Actions is available [here](https://github.com/FlipperMCE/swiss-gc/actions/runs/24345918913/artifacts/6406414012).
+Sources are [over here](https://github.com/FlipperMCE/swiss-gc/tree/feat/MMCEPatch), and a precompiled version from GitHub Actions is available [here](https://github.com/FlipperMCE/swiss-gc/releases/tag/MMCE_PoC).
 
 Use this with the latest version of *FlipperMCE* firmware.
 
