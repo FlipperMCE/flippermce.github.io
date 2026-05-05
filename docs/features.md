@@ -145,7 +145,7 @@ Practical notes
 
 ### Block Device Interface (1.1.0)
 
-FlipperMCE can be accessed as a block device through GameCube and Wii applications. This feature allows direct read/write access to the sd card storage at a block level. To use this functionality, applications must implement the MMCE (Multipurpose Memory Card Emulator) protocol, which is documented in detail in the [memcardpro.txt](https://github.com/FlipperMCE/firmware/blob/143044d067805e424b9267949c0c64b18f61ec91/doc/mcp/memcardpro.txt) specification.
+FlipperMCE can be accessed as a block device through GameCube and Wii applications. This feature allows direct read/write access to the SD card storage at a block level. To use this functionality, applications must implement the MMCE (Multipurpose Memory Card Emulator) protocol, which is documented in detail in the [memcardpro.txt](https://github.com/FlipperMCE/firmware/blob/143044d067805e424b9267949c0c64b18f61ec91/doc/mcp/memcardpro.txt) specification.
 
 **Development Support:**
 - The latest version of libOGC2 includes built-in support for this protocol
@@ -154,24 +154,27 @@ FlipperMCE can be accessed as a block device through GameCube and Wii applicatio
 
 #### Compatible Apps
 
-Thanks to many other developers like extrems, there are already plenty of homebrew apps that support FlipperMCE as a Block Device:
+Thanks to many other developers like Extrems, there are already plenty of homebrew apps that support FlipperMCE as a Block Device:
 
-- [240p Test Suite](https://artemiourbina.itch.io/240p-test-suite) (pending release)
+- [240p Test Suite](https://artemiourbina.itch.io/240p-test-suite)
 - [Blockamok Remix](https://mode8fx.itch.io/blockamok-remix) (pending pull request)
 - [ClassiCube](https://www.classicube.net/download/gamecube)
 - [CleanRip](https://github.com/emukidid/cleanrip)
 - [CubeSX](https://github.com/emukidid/pcsxgc) (pending release)
 - [Enhanced mGBA](https://github.com/extremscorner/emgba)
-- [FCE Ultra GX](https://github.com/dborth/fceugx) (pending release)
+- [FCE Ultra GX](https://github.com/dborth/fceugx)
 - [Game Boy Interface](https://www.gc-forever.com/wiki/index.php?title=Game_Boy_Interface)
 - [GC HTTP Server](https://github.com/emukidid/gchttpserver)
 - [GCC Test Suite](https://github.com/greenwave-1/GTS)
+- [Genesis Plus GX](https://github.com/ekeeke/Genesis-Plus-GX)
+- [Neverball](https://github.com/extremscorner/neverball)
+- [Nicky Boom](https://github.com/emukidid/Nicky-Boum)
 - [Not64](https://github.com/extremscorner/not64)
-- [Octave](https://github.com/mholtkamp/octave) (pending release)
+- [Octave](https://github.com/mholtkamp/octave)
 - [Scratch Everywhere!](https://github.com/ScratchEverywhere/ScratchEverywhere)
-- [Snes9x GX](https://github.com/dborth/snes9xgx) (pending release)
+- [Snes9x GX](https://github.com/dborth/snes9xgx)
 - [SuDokuL](https://mode8fx.itch.io/sudokul) (pending pull request)
 - [Swiss](https://github.com/emukidid/swiss-gc) (Config File and File Management)
 - [Trogdor: Reburninated](https://mode8fx.itch.io/trogdor-reburninated) (pending pull request)
-- [Visual Boy Advance GX](https://github.com/dborth/vbagx) (pending release)
+- [Visual Boy Advance GX](https://github.com/dborth/vbagx)
 - [WakeMii](https://github.com/emukidid/wakemii)
